@@ -1,6 +1,6 @@
 # Install Autopsy and Analyze the Disk File and Folder Configuration
-#### Name: Divya R V
-#### Reg no : 212223100005
+#### Name: LOGA MITHRA R
+#### Reg no : 212223100027
 
 ## AIM
 To install **Autopsy** and use it to analyze the disk’s file and folder configuration for forensic investigation.
